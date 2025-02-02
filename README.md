@@ -1,6 +1,7 @@
 # Hi there :sunglasses:
 ## I'm Gena Suvorin, Software / Automation QA Engineer
-#### I specialize in investigating features and services to identify errors as early as possible. 
+#### I specialize in investigating features and services to identify bugs as early as possible. 
+### 🚧 construction works, I'll improving my bio 🚧
 ### 🛠️ Tools
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 ![Devtools]
