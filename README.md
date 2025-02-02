@@ -3,11 +3,11 @@
 #### I specialize in investigating features and services to identify bugs as early as possible. 
 ### 🚧 construction works, I'll improving my bio 🚧
 ### 🛠️ Tools
-![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
-![Devtools]
-![SQL]
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Devtools] (https://static-00.iconduck.com/assets.00/chrome-devtools-icon-1024x1024-bgoqb03p.png/badge/Devtools?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CHARLES PROXY]
-![PyTest]
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![FIDDLER]
 ![SOAP UI]
 ![JMeter]
@@ -17,7 +17,9 @@
 - Autotest Python/Selenium from 2025
 - Love volleyball (shout out to Haikyuu!!)
 - Сarpenter by training and make DIY projects in free time
-- Books about QA or philosophy 
+- Books about QA or philosophy
+
+[![GS364's GitHub stats](https://github-readme-stats.vercel.app/api?username=GS364)](https://github.com/GS364/github-readme-stats)
 
 <!--
 **GS364/GS364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
