@@ -1,6 +1,6 @@
-# Hi there :sunglasses:
-# I'm Gena Suvorin, Software / Automation QA Engineer
-### I specialize in investigating features and services to identify bugs as early as possible. 
+## Hi there :sunglasses:
+## I'm Gena Suvorin, Software / Automation QA Engineer
+#### I specialize in investigating features and services to identify bugs as early as possible. 
 #### Open to offers for the position of QA Engineer. If you have a position that matches my skills and experience, don't hesitate to contact me - I will be glad to cooperate 🙌
 ### 🚧 construction works, I'll improving my bio 🚧
 
