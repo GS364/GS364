@@ -28,7 +28,8 @@
 ![JMeter]
 
 ### 📫Contact me
-[! [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gennadii-suvorin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gennadii-suvorin).
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reyqwertyu).
 
 [![GS364's GitHub stats](https://github-readme-stats.vercel.app/api?username=GS364)](https://github.com/GS364/github-readme-stats)
 
