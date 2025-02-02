@@ -16,7 +16,7 @@
 - Autotest Python/Selenium from 2025
 - Love volleyball (shout out to Haikyuu!!)
 - Сarpenter by training and make DIY projects in free time
-- Resd books about QA or philosophy
+- Read books about QA or philosophy
 
 ### 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
