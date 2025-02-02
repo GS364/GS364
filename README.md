@@ -4,14 +4,14 @@
 #### Open to offers for the position of QA Engineer. If you have a position that matches my skills and experience, don't hesitate to contact me - I will be glad to cooperate 🙌
 ### 🚧 construction works, I'll improving my bio 🚧
 
-### 🎯Goals
+### 🎯 Goals
 - Influence product quality by improving processes
 - Work in a friendly team of professionals
 - Participate in interesting and significant projects
 - Code clean and maintainable
 - Contribute to the success of the company
 
-### 🌻About me
+### 🌻 About me
 - In testing from 2024
 - Autotest Python/Selenium from 2025
 - Love volleyball (shout out to Haikyuu!!)
@@ -27,6 +27,8 @@
 ![FIDDLER]
 ![SOAP UI]
 ![JMeter]
+
+### 🎒 Education
 
 ### 📫Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gennadii-suvorin).
