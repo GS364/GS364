@@ -2,7 +2,6 @@
 ## I'm Gena Suvorin, Software / Automation QA Engineer
 #### I specialize in investigating features and services to identify bugs as early as possible. 
 #### Open to offers for the position of QA Engineer. If you have a position that matches my skills and experience, don't hesitate to contact me - I will be glad to cooperate 🙌
-### 🚧 construction works, I'll improving my bio 🚧
 
 ### 🎯 Goals
 - Influence product quality by improving processes
@@ -20,13 +19,13 @@
 
 ### 🛠️ Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Devtools] (https://static-00.iconduck.com/assets.00/chrome-devtools-icon-1024x1024-bgoqb03p.png/badge/Devtools?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![CHARLES PROXY]
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-![FIDDLER]
-![SOAP UI]
-![JMeter]
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### 🎒 Education
 
